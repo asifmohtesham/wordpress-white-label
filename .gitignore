@@ -1,0 +1,21 @@
+# WordPress
+wp-config.php
+wp-content/uploads/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Composer
+vendor/
+composer.lock
+
+# Node
+node_modules/
